@@ -1,49 +1,84 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height110&color=ff018f"/>
-
-<!---
-<div align="center">
-  <p>lalala</p>
-</div>
---->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height110&color=fff"/>
 
 <div align="center" width="100%>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&pause=500&color=ff018f&center=true&width=900&lines=Ola%2C+eu+me+chamo+Julia;Seja+bem-vindo+ao+meu+perfil+:3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&pause=500&color=9CA3AF&center=true&width=900&lines=Ola%2C+eu+me+chamo+Julia;Seja+bem-vindo+ao+meu+perfil+:3" alt="Typing SVG" /></a>
+  
+  <!--<img src="assets/montanhapng.png" width="100%"/>-->
   
 </div>
 
+<div align="center">
+  <img src="assets/cat.png" width="200" />
+</div>
 
+<br>
+
+## Onde me encontrar
+<img src="assets/lupa.gif" align="left" width=200 />
+<br>
+<div align="right">
+
+  [![Gmail](https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=gmail&logoColor=fff&color=000000)](mailto:juliadeoliveiraec@gmail.com) [![Discord](https://img.shields.io/badge/Discord-ffcc00?style=for-the-badge&logo=discord&logoColor=fff&color=000000)](https://discord.com/invite/imjuliz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffcc00?style=for-the-badge&logo=linkedin&logoColor=fff&color=000000)](mailto:juliadeoliveiraec@gmail.com)
+
+</div>
+<br><br><br><br><br><br>
+
+## Sobre mim
+<div>
+
+  <img src="assets/chapeu.gif" align="right" width=250 />
+
+  <br>
+
+```typescript
+interface Developer {
+    name: string;
+    role: string;
+    location: string;
+    hobbies: string;
+}
+
+const eu: Developer = {
+    name: "Julia Alves",
+    role: "Desenvolvedora Full Stack",
+    location: "São Paulo, Brasil",
+    hobbies: "desenvolvimento web, jogos, músicas"
+};
+
+/**  Minha jornada na programação começou através do SENAI,
+     no curso técnico de Desenvolvimento de Sistemas.
+     Desde então, sigo aprendendo e criando com código.
+*/
+```
+  
+</div>
+
+<br><br>
+
+## Minhas Skills
+<img src="assets/coding.gif" align="left" width=250 />
+<div align="right"><br>
+<br>
+
+  [![My Skills](https://skillicons.dev/icons?i=javascript,php,html,css,express&theme=dark)](https://skillicons.dev) <br>
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,bootstrap,tailwind,postgresql&theme=dark)](https://skillicons.dev) <br>
+  [![My Skills](https://skillicons.dev/icons?i=mysql,supabase,vercel,prisma,figma&theme=dark)](https://skillicons.dev)
+   
+</div>
+
+<br><br><br><br>
+
+## Estatisticas
 <div align="center">
   
-<img src="assets/pixel-cat.gif" height=150 />
+<img src="assets/pixel-cat.gif" height=200 />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjuliz&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imjuliz&theme=radical&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imjuliz&theme=radical&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imjuliz&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imjuliz&theme=radical&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjuliz&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imjuliz&theme=github_dark&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imjuliz&theme=github_dark&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imjuliz&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imjuliz&theme=github_dark&utcOffset=3)
 
 </div>
 
 <br><br>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB5ZnJwdnF2NG16OXprdmYwN2ozM3RwY2d2aWFyOHN6Mm1iYnQyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JZtW0hkL6Ke71r8Zh2/giphy.gif" width=25 /> Onde me encontrar
-<img align="right" src="assets/CodingWithCoffile.gif" width=300 />
-
-<div align="left" style="">
-
-  [![Gmail](https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=gmail&logoColor=ffcc00&color=2a0c62)](mailto:juliadeoliveiraec@gmail.com)
-  <br><br>
-  [![Discord](https://img.shields.io/badge/Discord-ffcc00?style=for-the-badge&logo=discord&logoColor=ffcc00&color=2a0c62)](https://discord.com/invite/imjuliz)
-  <br><br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffcc00?style=for-the-badge&logo=linkedin&logoColor=ffcc00&color=2a0c62)](mailto:juliadeoliveiraec@gmail.com)
-  
-</div>
-
-<br>
-
-## <img src="https://i.gifer.com/XiPv.gif" width=25 /> Minhas Skills
-<div align="center" style="display: inline_block"><br>
-
-  [![My Skills](https://skillicons.dev/icons?i=javascript,php,html,css,express,nodejs,nextjs,bootstrap,tailwind,postgresql,mysql,supabase,vercel,prisma,figma&theme=dark)](https://skillicons.dev)
-  
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height110&color=ff018f&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height110&color=fff&section=footer"/>
