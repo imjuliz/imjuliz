@@ -19,10 +19,12 @@
 <br>
 <div align="right">
 
-  [![Gmail](https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=gmail&logoColor=fff&color=000000)](mailto:juliadeoliveiraec@gmail.com) [![Discord](https://img.shields.io/badge/Discord-ffcc00?style=for-the-badge&logo=discord&logoColor=fff&color=000000)](https://discord.com/invite/imjuliz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffcc00?style=for-the-badge&logo=linkedin&logoColor=fff&color=000000)](mailto:juliadeoliveiraec@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=gmail&logoColor=fff&color=000000)](mailto:juliadeoliveiraec@gmail.com) <br><br>
+  [![Discord](https://img.shields.io/badge/Discord-ffcc00?style=for-the-badge&logo=discord&logoColor=fff&color=000000)](https://discord.com/invite/imjuliz) <br><br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffcc00?style=for-the-badge&logo=linkedin&logoColor=fff&color=000000)](mailto:juliadeoliveiraec@gmail.com)
 
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 ## Sobre mim
 <div>
@@ -61,9 +63,8 @@ const eu: Developer = {
 <div align="right"><br>
 <br>
 
-  [![My Skills](https://skillicons.dev/icons?i=javascript,php,html,css,express&theme=dark)](https://skillicons.dev) <br>
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,bootstrap,tailwind,postgresql&theme=dark)](https://skillicons.dev) <br>
-  [![My Skills](https://skillicons.dev/icons?i=mysql,supabase,vercel,prisma,figma&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=javascript,php,html,css,express,nodejs,nextjs,bootstrap&theme=dark)](https://skillicons.dev) <br>
+  [![My Skills](https://skillicons.dev/icons?i=tailwind,postgresql,mysql,supabase,vercel,prisma,figma&theme=dark)](https://skillicons.dev) <br>
    
 </div>
 
