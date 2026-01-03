@@ -67,7 +67,7 @@ const eu: Developer = {
    
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 ## Estatisticas
 <div align="center">
