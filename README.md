@@ -12,10 +12,10 @@
   
 </div>
 
-<br>
-<br>
 
 <div align="center">
+  
+<img src="assets/pixel-cat.gif" height=150 />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjuliz&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imjuliz&theme=radical&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imjuliz&theme=radical&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imjuliz&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imjuliz&theme=radical&utcOffset=3)
@@ -24,16 +24,10 @@
 
 <br><br>
 
-## 📍 Onde me encontrar
-<div style="display: flex; flex-direction: row; justify-content: space-between">
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB5ZnJwdnF2NG16OXprdmYwN2ozM3RwY2d2aWFyOHN6Mm1iYnQyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JZtW0hkL6Ke71r8Zh2/giphy.gif" width=25 /> Onde me encontrar
+<img align="right" src="assets/CodingWithCoffile.gif" width=300 />
 
-  <div>
-
-  <!-- ![gif](https://imgur.com/a/coding-exQ98R9) -->
-  
-  </div>
-
-  <div align="start" style="">
+<div align="left" style="">
 
   [![Gmail](https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=gmail&logoColor=ffcc00&color=2a0c62)](mailto:juliadeoliveiraec@gmail.com)
   <br><br>
@@ -41,13 +35,11 @@
   <br><br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffcc00?style=for-the-badge&logo=linkedin&logoColor=ffcc00&color=2a0c62)](mailto:juliadeoliveiraec@gmail.com)
   
-  </div>
-  
 </div>
 
 <br>
 
-## 🚀 Minhas Skills
+## <img src="https://i.gifer.com/XiPv.gif" width=25 /> Minhas Skills
 <div align="center" style="display: inline_block"><br>
 
   [![My Skills](https://skillicons.dev/icons?i=javascript,php,html,css,express,nodejs,nextjs,bootstrap,tailwind,postgresql,mysql,supabase,vercel,prisma,figma&theme=dark)](https://skillicons.dev)
