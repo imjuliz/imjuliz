@@ -20,7 +20,7 @@
 <div align="right">
 
   [![Gmail](https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=gmail&logoColor=fff&color=000000)](mailto:juliadeoliveiraec@gmail.com) <br><br>
-  [![Discord](https://img.shields.io/badge/Discord-ffcc00?style=for-the-badge&logo=discord&logoColor=fff&color=000000)](https://discord.com/invite/imjuliz) <br><br>
+  [![Discord](https://img.shields.io/badge/Discord-ffcc00?style=for-the-badge&logo=discord&logoColor=fff&color=000000)](https://discord.com/users/672098179537305653) <br><br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffcc00?style=for-the-badge&logo=linkedin&logoColor=fff&color=000000)](mailto:juliadeoliveiraec@gmail.com)
 
 </div>
@@ -41,7 +41,7 @@ interface Developer {
     hobbies: string;
 }
 
-const eu: Developer = {
+const me: Developer = {
     name: "Julia Alves",
     role: "Desenvolvedora Full Stack",
     location: "São Paulo, Brasil",
@@ -77,6 +77,8 @@ const eu: Developer = {
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjuliz&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imjuliz&theme=github_dark&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imjuliz&theme=github_dark&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imjuliz&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imjuliz&theme=github_dark&utcOffset=3)
+
+![](https://raw.githubusercontent.com/imjuliz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
