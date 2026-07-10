@@ -50,7 +50,8 @@ const me: Developer = {
 
 /**  Minha jornada na programação começou através do SENAI,
      no curso técnico de Desenvolvimento de Sistemas.
-     Desde então, sigo aprendendo e criando com código.
+     Atualmente estou cursando bacharelado em
+     Ciência e Tecnologia na Universidade Federal do ABC.
 */
 ```
   
